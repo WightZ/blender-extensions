@@ -7,16 +7,19 @@
       "id": "object_specific_undo_history",
       "name": "Object Specific Undo History",
       "tagline": "Per-object undo history with a scrub bar",
-      "version": "0.1.6",
+      "version": "0.1.7",
       "type": "add-on",
       "maintainer": "Bradley Curtis",
       "license": [
         "SPDX:GPL-3.0-or-later"
       ],
       "blender_version_min": "4.2.0",
-      "archive_url": "./object_specific_undo_history_v0.1.6.zip",
-      "archive_size": 7201,
-      "archive_hash": "sha256:66693b763da453199b5268eb0e194654604ad59a462fdc8643ce4020a90e3d52"
+      "archive_url": "./object_specific_undo_history_v0.1.7.zip",
+      "archive_size": 8560,
+      "archive_hash": "sha256:7e283610fd686a3d5ad4df8f31e9034837da6914fd30944608a8505676a9bb5b",
+      "permissions": {
+        "files": "Save undo history next to your .blend file"
+      }
     }
   ]
 }
